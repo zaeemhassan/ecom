@@ -21,7 +21,7 @@ development:
   adapter: mysql2
   database: ecom_db
   host: localhost
-  username: root
+  username: rootz
   password: 123
 
 # Warning: The database defined as "test" will be erased and
